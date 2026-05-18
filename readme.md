@@ -16,12 +16,14 @@ Minha resolução da lista de exercícios propostos pelo curso em vídeo de pyth
 ![](source/images/certificado-mundo1.jpg)
 
 Curso Python 3 - Mundo 1, ministrado por Gustavo Guanabara. Exercícios do número 1 ao 35. 
+[Curso de Python 3 - Mundo 1: Fundamentos
+](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 
 <br>
 
 ![](source/images/certificado-mundo2.jpg)
 
-Curso Python 3 - Mundo 2, ministrado por Gustavo Guanabara. Exercícios do número 36 ao 71.
+Curso Python 3 - Mundo 2, ministrado por Gustavo Guanabara. Exercícios do número 36 ao 71. [Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 
 ## 💻 Tecnologias
 
