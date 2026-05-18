@@ -21,7 +21,7 @@ Curso Python 3 - Mundo 1, ministrado por Gustavo Guanabara. Exercícios do núme
 
 ![](source/images/certificado-mundo2.jpg)
 
-Curso Python 3 - Mundo 2, ministrado por Gustavo Guanabara. Exercícios do número 36 ao 41.
+Curso Python 3 - Mundo 2, ministrado por Gustavo Guanabara. Exercícios do número 36 ao 71.
 
 ## 💻 Tecnologias
 
